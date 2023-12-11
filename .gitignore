@@ -1,0 +1,14 @@
+.vscode/
+*.exe
+Media_C/.vscode
+Media_CSharp/bin/
+Media_CSharp/obj/
+*.csproj
+Media_Java/build/
+Media_Java/nbproject
+*.xml
+Media_Java/manifest.mf
+Media_JavaScript/node_modules
+*.o
+*.exe
+*.class
